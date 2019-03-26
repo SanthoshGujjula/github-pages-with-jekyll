@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to DataStage
 
-I'm glad you are here. I plan to talk about ...
+DataStage is an Extract, Transform and Load (ETL) tool which is widely used in Data Warehousing, Data Mart projects.
